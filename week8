@@ -1,0 +1,66 @@
+# Week 8 Learning Journal – Learning Experiment and Presentation Rehearsal
+
+**Date:** 25 July 2026
+
+## Overview
+
+This week focused on conducting a learning experiment and preparing for our group project presentation. I also continued communicating with my teammates through Discord while working on our project tasks and discussing our progress.
+
+## Learning Experiment
+
+### Hypothesis
+
+I believe that practising PHP by writing and testing small pieces of code step by step is more effective than only reading lecture slides or watching videos.
+
+### Experiment
+
+To test this idea, I divided my study into two different approaches.
+
+- **Method 1:** I spent 30 minutes reading the lecture slides and reviewing PHP syntax without writing any code.
+- **Method 2:** I spent 30 minutes creating PHP files, running the code in my local environment, fixing errors, and testing different PHP features such as `echo`, `if/else`, loops, functions and `include`.
+
+After each session, I wrote down how much I remembered and whether I could complete similar coding tasks without looking at the notes.
+
+### Results
+
+The practical coding session was much more effective. I understood PHP concepts more clearly because I could immediately see the results in the browser and identify mistakes while coding. Reading the slides helped me understand the theory, but writing and testing code improved my confidence and problem-solving skills.
+
+### Conclusion
+
+The experiment supported my hypothesis. Practising by writing and testing PHP code helped me learn faster than reading theory alone. I will continue using this approach when learning new programming topics.
+
+---
+
+## Presentation Rehearsal
+
+Our team discussed the project through **Discord** and reviewed our presentation plan. During my rehearsal, I focused on speaking clearly, explaining my assigned section, and making sure I could finish within the allocated time.
+
+While practising, I checked the following:
+
+- Audio quality and microphone.
+- Screen sharing and slide visibility.
+- Speaking speed and pronunciation.
+- Timing for each section of the presentation.
+- Smooth transitions between slides.
+
+I realised that I was speaking slightly too quickly during my first practice. After rehearsing again, I slowed down my speaking pace and felt more confident explaining the project.
+
+---
+
+## Reflection
+
+This week's activities showed me that practical learning is the most effective way for me to improve my programming skills. Conducting a simple learning experiment helped me understand how I learn best, while presentation rehearsal increased my confidence in explaining technical work.
+
+Working with my teammates through Discord also improved our communication and helped us organise our project more effectively. I feel better prepared for both the project presentation and future programming tasks.
+
+## Time Spent
+
+Approximately **5 hours**.
+
+## Resources
+
+- Discord
+- Visual Studio Code
+- Local WordPress Development Environment
+- PHP Official Documentation
+- CP3401 Week 8 Lecture Materials
