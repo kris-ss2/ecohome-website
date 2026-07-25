@@ -1,0 +1,55 @@
+# Week 7 Learning Journal – Introduction to PHP
+
+**Date:** 25 July 2026
+
+## Overview
+
+This week I learned the basics of PHP programming using a local WordPress development environment. I created my first PHP page and explored how PHP works on the server to generate dynamic web content. Compared with HTML, PHP allows websites to process data and display different content based on program logic.
+
+## What I Learned
+
+During this week's practical exercise, I learned the following PHP concepts:
+
+- Using `echo` to display HTML content.
+- Using `if...else` statements to make decisions.
+- Using `for` loops to repeat tasks.
+- Using `while` loops for repeated execution.
+- Using arrays together with `foreach`.
+- Creating functions with parameters.
+- Using `include` to reuse common page components such as the header and footer.
+
+I also learned how these programming techniques make websites more efficient and easier to maintain.
+
+## Practical Work
+
+I completed a PHP exercise by creating several files:
+
+- `exercise7.php`
+- `header.php`
+- `footer.php`
+- `about.php`
+
+The exercise included dynamic content generation using PHP and shared page layouts with the `include` statement. Both pages displayed the same header and footer, which reduced duplicate code.
+
+## Challenges
+
+At the beginning, I found it difficult to create PHP files on macOS because Finder does not provide a direct option to create new files. I also accidentally opened the PHP file using the wrong application before switching to Visual Studio Code.
+
+Another challenge was understanding the correct location for PHP files inside the Local WordPress environment. After placing the files inside the `app/public` directory, I successfully ran the PHP pages in my browser.
+
+## Reflection
+
+This week's exercise improved my understanding of server-side programming. Before this lesson, I only created static HTML pages. After learning PHP, I now understand how websites can generate dynamic content and reuse code through functions and the `include` statement.
+
+Although PHP syntax was new to me, completing each task step by step increased my confidence. I believe these skills will help me develop more advanced WordPress websites in future assignments.
+
+## Time Spent
+
+Approximately **5 hours**.
+
+## Resources
+
+- PHP Official Documentation — https://www.php.net/docs.php
+- Local WordPress Development Environment
+- Visual Studio Code
+- CP3401 Week 7 Lecture Materials
